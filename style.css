@@ -208,6 +208,22 @@ section {
   display: flex;
   justify-content: center;
   gap: 1rem;
+  margin-top: auto;
+}
+.project-info {
+  margin-top: auto;
+}
+.pro1 h2 {
+  margin-top: 25px;
+}
+.pro3 img {
+  height: 300px;
+}
+.pro3 h2 {
+  margin-top: 25px;
+}
+.pro4 h2 {
+  margin-top: 40px;
 }
 
 .btn {
@@ -227,7 +243,9 @@ section {
 .btn-color-2:hover {
   cursor: pointer;
 }
-
+.pro5 h2 {
+  margin-top: 10px;
+}
 .btn-color-1,
 .btn-color-2:hover {
   background: rgb(53, 53, 53);
